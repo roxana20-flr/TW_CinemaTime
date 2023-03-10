@@ -1,8 +1,8 @@
 import { Add, Remove } from "@material-ui/icons";
 import styled from "styled-components";
-import Announcement from "../components/Announcement";
+import Announcement from "../components/announcement/Announcement";
 import Footer from "../components/Footer";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/navbar/Navbar";
 import Bottom from "../components/Bottom";
 import Newsletter from "../components/Newsletter";
 import { mobile } from "../responsive";

@@ -1,0 +1,24 @@
+#dropdown-menu {
+    background-color: rgba(1, 45, 121, 0.9);
+    position: absolute;
+    top: 90px;
+    right: 3%;
+    width: 200px;
+    height: 100px;
+    z-index: 1;
+}
+
+.dropdown-item {
+    /* background-color: red; */
+    position: absolute;
+}
+
+#dropdown-account {
+    top: 30%;
+    left: 20%;
+}
+
+#dropdown-wishlist {
+    top: 50%;
+    left: 20%;
+}

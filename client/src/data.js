@@ -73,7 +73,7 @@ export const sliderItems = [
 
   export const logo = [
     // {img: "https://ibb.co/tDch2Sp"}
-    {img: "cinema.png"}
+    {img: "logo-MyMed.png"}
   ]
 
   export const newsletter = [

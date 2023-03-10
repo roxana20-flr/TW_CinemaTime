@@ -1,11 +1,11 @@
 import React from 'react'
-import Announcement from '../components/Announcement'
+import Announcement from "../components/announcement/Announcement";
 import Categories from '../components/Categories'
 import Footer from '../components/Footer'
-import Navbar from '../components/Navbar'
+import Navbar from "../components/navbar/Navbar";
 import Newsletter from '../components/Newsletter'
 import Products from '../components/Products'
-import Slider from '../components/Slider'
+import Slider from '../components/slider/Slider'
 import Bottom from "../components/Bottom";
 import "./Home.css";
 
